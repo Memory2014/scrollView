@@ -8,6 +8,7 @@ It requires `iOS 8.0+`  and `Swift 3.0+` .
 
 ## Installation
 
+![Example](2.gif)
 ### Manually
 
 You can install it manually just draging [scrollView](https://github.com/Memory2014/scrollView) to your project. 
